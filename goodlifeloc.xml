@@ -1,0 +1,48 @@
+<DATA>
+
+
+	<ROW>
+		<ID>15962</ID>
+		<Company>GoodLife</Company>
+		<City>Ajax</City>
+		<Address>306 Rossland Road East</Address>
+	</ROW>
+
+	<ROW>
+		<gymID>15959</gymID>
+		<gym_name>GoodLife</gym_name>
+		<gym_city>Mississauga</gym_city>
+		<gym_addr>100 City Centre Drive</gym_addr>
+	</ROW>
+
+	<ROW>
+		<gymID>15960</gymID>
+		<gym_name>GoodLife</gym_name>
+		<gym_city>North York</gym_city>
+		<gym_addr>250 Ferrand Drive</gym_addr>
+	</ROW>
+    
+    <ROW>
+		<GymID>15958</GymID>
+		<Name>GoodLife</Name>
+		<City>Oshawa</City>
+		<Address>419 King Street West</Address>
+	</ROW>
+    
+    <ROW>
+		<gymID>15963</gymID>
+		<gym_name>GoodLife</gym_name>
+		<gym_city>Pickering</gym_city>
+		<gym_addr>1792 Liverpool Road</gym_addr>
+	</ROW>
+
+	<ROW>
+		<gymID>15961</gymID>
+		<gym_name>GoodLife</gym_name>
+		<gym_city>Scarborough</gym_city>
+		<gym_addr>1755 Brimley Road</gym_addr>
+	</ROW>
+
+
+
+</DATA>

@@ -1,0 +1,47 @@
+<DATA>
+
+
+	<ROW>
+        <ID>59991</ID>
+		<Company>YMCA</Company>
+		<City>Ajax</City>
+		<Address>75 Centennial Road</Address>
+	</ROW>
+    
+	<ROW>
+		<gymID>59988</gymID>
+		<gym_name>YMCA</gym_name>
+		<gym_city>Mississauga</gym_city>
+		<gym_addr>325 Burnhamthorpe Road West</gym_addr>
+	</ROW>
+
+	<ROW>
+		<gymID>59989</gymID>
+		<gym_name>YMCA</gym_name>
+		<gym_city>North York</gym_city>
+		<gym_addr>567 Sheppard Avenue East</gym_addr>
+	</ROW>
+    
+    <ROW>
+		<gymID>59987</gymID>
+		<gym_name>YMCA</gym_name>
+		<gym_city>Oshawa</gym_city>
+		<gym_addr>120 Glovers Road</gym_addr>
+	</ROW>
+
+	<ROW>
+		<gymID>59992</gymID>
+		<gym_name>YMCA</gym_name>
+		<gym_city>Pickering</gym_city>
+		<gym_addr>1550 Kingston Road</gym_addr>
+	</ROW>
+    
+	<ROW>
+		<gymID>59990</gymID>
+		<gym_name>YMCA</gym_name>
+		<gym_city>Scarborough</gym_city>
+		<gym_addr>230 Town Centre Court</gym_addr>
+	</ROW>
+
+
+</DATA>

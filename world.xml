@@ -1,0 +1,47 @@
+<DATA>
+
+	<ROW>
+		<ID>60030</ID>
+		<Company>World Gym</Company>
+		<City>Ajax</City>
+		<Address>300 Lakshore Drive</Address>
+	</ROW>
+
+	<ROW>
+		<gymID>60027</gymID>
+		<gym_name>World Gym</gym_name>
+		<gym_city>Mississauga</gym_city>
+		<gym_addr>3450 Ridgeway Drive</gym_addr>
+	</ROW>
+
+	<ROW>
+		<gymID>60028</gymID>
+		<gym_name>World Gym</gym_name>
+		<gym_city>North York</gym_city>
+		<gym_addr>7555 Montrose Road</gym_addr>
+	</ROW>
+    
+    <ROW>
+		<gymID>60026</gymID>
+		<gym_name>World Gym</gym_name>
+		<gym_city>Oshawa</gym_city>
+		<gym_addr>400 Bayfield Street</gym_addr>
+	</ROW>
+
+    
+	<ROW>
+		<gymID>60031</gymID>
+		<gym_name>World Gym</gym_name>
+		<gym_city>Pickering</gym_city>
+		<gym_addr>40 Eld Street</gym_addr>
+	</ROW>
+    
+	<ROW>
+		<gymID>60029</gymID>
+		<gym_name>World Gym</gym_name>
+		<gym_city>Scarborough</gym_city>
+		<gym_addr>1455 McCowan Road</gym_addr>
+	</ROW>
+
+
+</DATA>

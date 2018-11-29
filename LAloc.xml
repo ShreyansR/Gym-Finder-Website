@@ -1,0 +1,50 @@
+<DATA>
+	<ROW>
+		<ID>26552</ID>
+		<Company>LA Fitness</Company>
+		<City>Ajax</City>
+		<Address>350 Taunton Road East</Address>
+	</ROW>
+    
+
+
+	<ROW>
+		<gymID>26549</gymID>
+		<gym_name>LA Fitness</gym_name>
+		<gym_city>Mississauga</gym_city>
+		<gym_addr>3055 Vega Boulevard</gym_addr>
+	</ROW>
+
+	<ROW>
+		<gymID>26550</gymID>
+		<gym_name>LA Fitness</gym_name>
+		<gym_city>North York</gym_city>
+		<gym_addr>1380 Don Mills Road</gym_addr>
+	</ROW>
+
+
+
+    <ROW>
+		<GymID>26548</GymID>
+		<Company>LA Fitness</Company>
+		<City>Oshawa</City>
+		<Address>1189 Ritson Road North</Address>
+	</ROW>
+
+	<ROW>
+		<gymID>26553</gymID>
+		<gym_name>LA Fitness</gym_name>
+		<gym_city>Pickering</gym_city>
+		<gym_addr>1189 Ritson Road North</gym_addr>
+	</ROW>
+
+
+	<ROW>
+		<gymID>26551</gymID>
+		<gym_name>LA Fitness</gym_name>
+		<gym_city>Scarborough</gym_city>
+		<gym_addr>1970 Eglinton Avenue East</gym_addr>
+	</ROW>
+    
+    </DATA> 
+	
